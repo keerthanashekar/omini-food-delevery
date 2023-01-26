@@ -1,0 +1,87 @@
+# omini-food-delevery HTML 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Omnifood</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="C:\Users\user\Documents\junk food\images\logo-white.png" alt="">
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#food-delivery"><i>FOOD DELIVERY</i></a></li>
+                <li><a href="#howitworks"><i>HOW IT WORKS</i></a></li>
+                <li><a href=""><i>OUR CITIES</i></a></li>
+                <li><a href=""><i>SIGN UP</i></a></li>
+            </ul>
+        </nav>
+        <h1>GOOD BYE JUNK FOOD.... <br>HELLO SUPER HEALTHY MEALS..!!! </h1>
+
+        <a href="" class="btn-primary btn-l">I'm Hungry</a>
+        <a href="" class="btn-primary btn-r">Show me more</a>
+    </header>
+    <div class="description" id="food-delivery">
+        <h2>GET FOOD FAST - NOT FAST FOOD</h2>
+        <p>Hello, we’re Omnifood, your new premium food delivery service. We know you’re always busy. No time for
+            cooking. So let us take care of that, we’re really good at it, we promise!</p>
+    </div>
+    <div class="content">
+        <p><img src="file:///C:/Users/user/Documents/junk%20food/images/images/infinite-outline.svg" alt="" width="75px"><br> UP TO 365 DAYS/YEAR <br>
+            Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can
+            also choose to order more flexibly if that's your style.</p>
+        <p><img src="file:///C:/Users/user/Documents/junk%20food/images/images/timer-outline.svg" alt="" width="75px"><br> READY IN 20 MINUTES <br>
+            You're only twenty minutes away from your delicious and super healthy meals delivered right to your home. We
+            work with the best chefs in each town to ensure that you're 100% happy.</p>
+        <p><img src="file:///C:/Users/user/Documents/junk%20food/images/images/cart-outline.svg" alt="" width="75px"><br> 100% ORGANIC <br>
+            All our vegetables are fresh, organic and local. Animals are raised without added hormones or antibiotics.
+            Good for your health, the environment, and it also tastes better!</p>
+        <p><img src="file:///C:/Users/user/Documents/junk%20food/images/images/cart-outline.svg" alt="" width="75px"><br> ORDER ANYTHING <br>
+            We don't limit your creativity, which means you can order whatever you feel like. You can also choose from
+            our menu containing over 100 delicious meals. It's up to you!</p>
+    </div>
+    <div class="meal">
+        <div class="img-wrap1"></div>
+        <div class="img-wrap2"></div>
+        <div class="img-wrap3"></div>
+        <div class="img-wrap4"></div>
+        <div class="img-wrap5"></div>
+        <div class="img-wrap6"></div>
+        <div class="img-wrap7"></div>
+        <div class="img-wrap8"></div>
+    </div>
+    <div class="working" id="howitworks">
+        <h2>HOW IT WORKS - SIMPLE AS 1, 2, 3</h2>
+        <div class="work-steps">
+            <img src="C:\Users\user\Documents\junk food\images\images\app-iPhone.png" height="400 px" alt="">
+            <div class="work-step-para">
+                <div>
+                    <div class="count">1</div>
+                    <p>Choose the subscription plan that best fits your needs and sign up today.</p>
+                </div><br><br>
+                <div>
+
+                    <div class="count">2</div>
+                    <p>Order your delicious meal using our mobile app or website. Or you can even
+                        call us!</p>
+                </div><br><br>
+                <div>
+
+                    <div class="count">3</div>
+                    <p>Enjoy your meal after less than 20 minutes. See you the next time!</p>
+                </div><br><br>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
